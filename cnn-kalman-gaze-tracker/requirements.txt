@@ -1,0 +1,19 @@
+# Arayüz ve Görüntü İşleme 
+pygame==2.6.1
+opencv-python==4.13.0.90
+mediapipe==0.10.9
+
+# Derin Öğrenme ve Modeller
+tensorflow==2.21.0
+keras==3.13.2
+scikit-learn==1.4.2
+
+# Veri Analizi ve İstatistik
+numpy==2.4.2
+pandas==3.0.0
+scipy==1.13.0
+fastdtw==0.3.4
+
+# Görselleştirme 
+matplotlib==3.10.8
+seaborn==0.13.2

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.vscode/
+.idea/
+.DS_Store
+
+# Generated gaze-tracking data and analysis outputs
+lab_gaze_tracking_data.csv
+runs/

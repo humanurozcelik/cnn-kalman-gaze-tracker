@@ -1,19 +1,20 @@
-# Arayüz ve Görüntü İşleme 
-pygame==2.6.1
-opencv-python==4.13.0.90
-mediapipe==0.10.9
+# Tested target environment: Python 3.11
 
-# Derin Öğrenme ve Modeller
-tensorflow==2.21.0
-keras==3.13.2
+# UI and computer vision
+pygame==2.6.1
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+
+# Deep learning and modeling
+tensorflow==2.16.1
 scikit-learn==1.4.2
 
-# Veri Analizi ve İstatistik
-numpy==2.4.2
-pandas==3.0.0
+# Numerical computing and analysis
+numpy==1.26.4
+pandas==2.2.2
 scipy==1.13.0
 fastdtw==0.3.4
 
-# Görselleştirme 
-matplotlib==3.10.8
+# Visualization
+matplotlib==3.9.2
 seaborn==0.13.2

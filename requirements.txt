@@ -1,0 +1,22 @@
+# Tested target environment: Python 3.11 (Windows)
+
+# UI and computer vision
+pygame==2.6.1
+mediapipe==0.10.14
+opencv-contrib-python==4.11.0.86
+
+# Deep learning and modeling
+tensorflow==2.16.1
+scikit-learn==1.4.2
+
+# Numerical computing and analysis
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Optional trajectory metric
+# fastdtw==0.3.4
